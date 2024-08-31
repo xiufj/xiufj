@@ -1,7 +1,3 @@
-# Hi 👋, I'm Xiu Fengjun
-
-I am a front end developer based in Shandong China., TX! If you want find out more or get in touch, please visit [my website](https://next-portfolio-template-eosin.vercel.app/).
-
 
 ### Skills
 
